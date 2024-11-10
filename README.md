@@ -1,7 +1,8 @@
 # 🎄 🟦 advent-of-typescript
 
-[Advent of TypeScript](https://typehero.dev/aot-2023)
+[Advent of TypeScript](https://www.adventofts.com/)
 
 | Year | Solved |
 | :--: | :----: |
 | 2023 | 25/25  |
+| 2024 | 00/25  |
