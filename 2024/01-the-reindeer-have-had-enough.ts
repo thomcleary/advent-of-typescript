@@ -1,4 +1,4 @@
-// The Reinder Have Had Enough
+// The Reindeer Have Had Enough
 //
 // [🎅Santa's reindeer, ☄️Comet and 💨Dasher, have a secret meeting with 🎩Bernard, the head of the elves]
 //
