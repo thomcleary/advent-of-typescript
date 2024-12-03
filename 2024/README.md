@@ -6,7 +6,7 @@
 | :-: | ---------------------------- | :------: | :--: | :----------: |
 |  1  | The Reindeer Have Had Enough | 00:00:13 | 5th  |     5th      |
 |  2  | ⚡Blitzen Fixes The Mess     | 00:00:14 | 6th  |     4th      |
-|  3  |                              |          |      |
+|  3  | 🎅Santa Wants Housing Data   | 00:00:53 | 20th |     4th      |
 |  4  |                              |          |      |
 |  5  |                              |          |      |
 |  6  |                              |          |      |
