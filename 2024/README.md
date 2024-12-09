@@ -12,7 +12,7 @@
 |  6  | 🎅Santa Refuses To Use Threads      | 00:01:05 (📱) | 27th |     14th     |
 |  7  | 💋Crystal Panics                    |   00:16:46    | 34th |     11th     |
 |  8  | A Night With Mrs. Claus             |     Late      | Late |     22nd     |
-|  9  |                                     |               |      |              |
+|  9  | 🌟Vixen Confronts 🪩Jamie           |     Late      | Late |     28th     |
 | 10  |                                     |               |      |              |
 | 11  |                                     |               |      |              |
 | 12  |                                     |               |      |              |
