@@ -15,7 +15,7 @@
 |  9  | 🌟Vixen Confronts 🪩Jamie           |   ✅   |
 | 10  | The Reindeer Hatch A Plan           |   ✅   |
 | 11  | Excuses, Excuses                    |   ✅   |
-| 12  |                                     |        |
+| 12  | 🎩Bernard's Long List Of Names      |   ✅   |
 | 13  |                                     |        |
 | 14  |                                     |        |
 | 15  |                                     |        |
