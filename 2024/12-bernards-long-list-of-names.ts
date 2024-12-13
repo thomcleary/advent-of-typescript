@@ -28,11 +28,9 @@
 type Even = 0 | 2 | 4 | 6 | 8;
 
 type IsEven<N extends number> =
-  `${N}` extends `${string}${infer Tail extends number}`
-    ? Tail extends Even
+  `${N}` extends `${string}${infer _ extends Even}`
       ? true
-      : false
-    : N extends Even
+      : N extends Even
       ? true
       : false;
 

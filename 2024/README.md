@@ -16,7 +16,7 @@
 | 10  | The Reindeer Hatch A Plan           |   ✅   |
 | 11  | Excuses, Excuses                    |   ✅   |
 | 12  | 🎩Bernard's Long List Of Names      |   ✅   |
-| 13  |                                     |        |
+| 13  | The Reindeer Plan Their Attack      |   ✅   |
 | 14  |                                     |        |
 | 15  |                                     |        |
 | 16  |                                     |        |
