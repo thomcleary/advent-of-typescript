@@ -19,7 +19,7 @@
 | 13  | The Reindeer Plan Their Attack      |   ✅   |
 | 14  | 🎅Santa Hides Behind Perf Review    |   ✅   |
 | 15  | Jet Fuel Pricing                    |   ✅   |
-| 16  |                                     |        |
+| 16  | Magic Curry Mind Control Inception  |   ✅   |
 | 17  |                                     |        |
 | 18  |                                     |        |
 | 19  |                                     |        |
